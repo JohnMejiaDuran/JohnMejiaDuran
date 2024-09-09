@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Mejía</h1>
 <h3 align="center">A passionate fullstack developer and mobile developer from Colombia, Bucaramanga</h3>
 
-- 🌱 I’m currently learning **React, reactnative, laravel and Django**
+- 🌱 I’m currently learning **React, reactnative and Django**
 
 - 📫 How to reach me **johnmejiaduran@gmail.com**
 
